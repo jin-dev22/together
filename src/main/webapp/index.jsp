@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Together</h1>
-	<a href="<%request.getContextPath();%>/helloworld">hello world</a>
+	<a href="<%= request.getContextPath() %>/helloworld">helloworld</a>
 </body>
 </html>
