@@ -9,5 +9,7 @@
 <body>
 	<h1>Together</h1>
 	<a href="<%= request.getContextPath() %>/helloworld">helloworld</a>
+	<a href="<%= request.getContextPath() %>/sujin">sujin</a>
+	<!-- 수진수진 -->
 </body>
 </html>
