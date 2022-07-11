@@ -11,5 +11,7 @@
 	<a href="<%= request.getContextPath() %>/helloworld">helloworld</a>
 	<a href="<%= request.getContextPath() %>/sujin">sujin</a>
 	<!-- 수진수진 -->
+	<a href="<%= request.getContextPath() %>/login">로그인</a>
+
 </body>
 </html>
