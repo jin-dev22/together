@@ -11,7 +11,12 @@
 	<a href="<%= request.getContextPath() %>/helloworld">helloworld</a>
 	<a href="<%= request.getContextPath() %>/sujin">sujin</a>
 	<!-- 수진수진 -->
+	
+	<!-- 태욘 start-->
 	<a href="<%= request.getContextPath() %>/login">로그인</a>
+	<a href="<%= request.getContextPath() %>/logout">로그아웃</a>
+	
+	
 
 </body>
 </html>
